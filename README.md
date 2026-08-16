@@ -1,9 +1,131 @@
 <div align="center">
 
-<img src="panels.svg" width="100%" alt="Ada's profile banner" />
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1331 363" width="100%">
+<rect x="0" y="0" width="1331" height="363" fill="#000"/>
+<text x="10.7" y="18.7" font-family="Consolas, 'Courier New', monospace" font-size="8" fill="#fff" xml:space="preserve">
+<tspan x="10.7" dy="0.00">                     –†©ÒæÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆæêðÒ§Îòc†|–     </tspan>
+<tspan x="10.7" dy="8.00">                 –©æÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆæð§ò†·  </tspan>
+<tspan x="10.7" dy="8.00">              –§ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆê§ò|</tspan>
+<tspan x="10.7" dy="8.00">            cÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆæò–    </tspan>
+<tspan x="10.7" dy="8.00">          cÆÆÆÆÆÆÆÆÆÆÆÆÆÆæð§§§ÒðæÆÆÆÆÆÆÆÆÆÎÎæÆÆÆÆÆÆ†    </tspan>
+<tspan x="10.7" dy="8.00">        –ÆÆÆÆÆÆÆÆÆÆÆÆ©·|©ðÆÆÆÆÆÆð©|  ÎæÆÆÆÆê–  –ÒÆÆÆæ|  </tspan>
+<tspan x="10.7" dy="8.00">       òÆÆÆÆÆÆÆÆÆÆ§–cÆÆÆÆÆÆÆÆð©–        †æÆÆÆc     ·Îæc </tspan>
+<tspan x="10.7" dy="8.00">      ©ÆÆÆÆÆÆÆÆÆÒ–§ÆÆÆÆÆê†                –æÆÆ§         </tspan>
+<tspan x="10.7" dy="8.00">     cÆÆÆÆÆÆÆÆÆ©†ÆÆÆÆÒ                      ðÆÆ·        </tspan>
+<tspan x="10.7" dy="8.00">    –æÆÆÆÆÆÆÆÆ§cÆÆÆ†                        òÆÆ·        </tspan>
+<tspan x="10.7" dy="8.00">    §ÆÆÆÆÆÆÆÆÆ·ðÆò             |–          cÆÆÒ         </tspan>
+<tspan x="10.7" dy="8.00">   |ÆÆÆÆÆÆÆÆÆÆ·ò·               ©Æ§–   ·†ðÆÆÆò          </tspan>
+<tspan x="10.7" dy="8.00">   §ÆÆÆÆÆÆÆÆÆÆÎ                    cêÆÆÆÆæ©             </tspan>
+<tspan x="10.7" dy="8.00">  –ÆÆÆÆÆÆÆÆÆÆÆÆò                                        </tspan>
+<tspan x="10.7" dy="8.00">  †ÆÆÒÆÆÆÆÆÆÆÆÆÆð                               ·ò      </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆò–ÆÆÆÆÆÆÆÆÆÆÆ†                            –§       </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆÎ  ÒÆÆÆÆÆÆÆÆÆÆæ–                         ÎÆ        </tspan>
+<tspan x="10.7" dy="8.00">  cÆÆÒ ·– ©ÆÆÆÆÆÆÆÆÆÆÆ·                      ÒÆ·        </tspan>
+<tspan x="10.7" dy="8.00">  cÆÆÆ† Î–  ·òÆÆÆÆÆÆÆÆÆÆ†                   ÒÆÎ         </tspan>
+<tspan x="10.7" dy="8.00">  cÆÆÆÒ –Ò      ·cæÆÆÆÆÆÆÆæ|               §ÆÆ          </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆÆÆc òæ           ·–©êÆÆÆÆ§·          òÆÆÎ          </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆÆÆÆ| ðÆ                             |ÆÆÆ–          </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆðòÆÆ– ÆÆ·  ·§ÆÆÆÆÆÆ©                ÒÆÆð·          </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆð §ÆÆ· ÆÆc·ðæ–    ·cÆ†             òÆÆÆ©           </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆð  ÒÆÆ··ÆÆÆÆÒ        |–           ·ðÆÆÆ†           </tspan>
+<tspan x="10.7" dy="8.00">  ©ÆÆð   ÎÆÆò·êÆÆÆò                   ·ðÆÆÆÆ–           </tspan>
+<tspan x="10.7" dy="8.00">  ©ÆÆð|–  ©ÆÆð·ðÆÆÆÎ                 |ÆÆÆÆÆê·           </tspan>
+<tspan x="10.7" dy="8.00">  ©ÆÆð†Ò|  |ÆÆÆ©§ÆÆÆÆ†             ·êÆÆÆÆÆÆð·           </tspan>
+<tspan x="10.7" dy="8.00">  ©ÆÆê†ÆÒ·  ·ÆÆÆæÒÆÆÆÆÆêÎ†–···–c§êÆÆÆÆÆÆÆÆÆÒ·           </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆÆcæÆ©    ÎÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆð·           </tspan>
+<tspan x="10.7" dy="8.00">  òÆÆÆòêÆÆc    †ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ–           </tspan>
+<tspan x="10.7" dy="8.00">  †ÆÆÆ©ÒÆÆæ·     ÎÆÆÆÆÆÆÆÆê||ò©©©©©ò† –ÆÆÆÆÆ|           </tspan>
+<tspan x="10.7" dy="8.00">  –ÆÆÆ§©Î·cêÆÆÆÆðò–§ÆÆÆÆÆÆÆÆð–        –ÆÆÆÆÆÎ           </tspan>
+<tspan x="10.7" dy="8.00">  –ÆÆÆæ– ÒÆÆÆÆÆÆÆÆÆÆæÆÆÆÆÆÆÆÆÆ§·      ·ÒÆÆÆÆÆ·          </tspan>
+<tspan x="10.7" dy="8.00">  ·êÆÆÆ†cÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÎ      òÆÆÆÆÆò          </tspan>
+<tspan x="10.7" dy="8.00">   §ÆÆÆòêÆÆÆÆÆÆÆÒÎÎÎÎÒÆÆÆÆÆÆÆÆÆÆÆÆ©    |ÆÆÆÆÆÆ          </tspan>
+<tspan x="10.7" dy="8.00">   òÆÆÆ§ÆÆÆÆÆÆÎ        |ÒÆÆÆÆÆÆÆÆÆÆÆc  ·ðÆÆÆÆÆò         </tspan>
+<tspan x="10.7" dy="8.00">   |ÆÆÆÆÆÆÆÆÆð            ÒÆÆÆÆÆÆÆÆÆÆæ| òÆÆÆÆÆÆ·        </tspan>
+<tspan x="10.7" dy="8.00">   –ÆÆÆÆÆÆÆÆÆ·             òÆÆÆÆÆÆÆÆÆÆÆÒ|êÆÆÆÆÆæ        </tspan>
+<tspan x="10.7" dy="8.00">    ðÆÆÆÆÆÆÆÆ              †ÆÆÆÆÆÆÆÆÆÆÆÆÆæÆÆÆÆÆÆ§       </tspan>
+<tspan x="10.7" dy="8.00">    ÎÆÆÆÆÆÆÆÆ            –ÒÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆò      </tspan>
+<tspan x="10.7" dy="8.00">    cÆÆÆÆÆÆÆÆò       ÒÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ|     </tspan>
+</text>
 <a href="https://www.linkedin.com/in/ada-oyku-apaydin/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<rect x="723.8" y="184.0" width="218.4" height="45.3" fill="none" stroke="#fff" stroke-width="1.5"/>
+<text x="833.0" y="211.7" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#fff">[ Connect on LinkedIn ]</text>
 </a>
+<text x="728.5" y="261.7" font-family="Georgia, 'Times New Roman', serif" font-size="18.0" font-weight="700" fill="#fff" xml:space="preserve">
+<tspan x="728.5" dy="0.00">Currently Working on:</tspan>
+</text>
+<text x="728.5" y="297.7" font-family="Georgia, 'Times New Roman', serif" font-size="18.0" font-style="italic" fill="#fff" xml:space="preserve">
+<tspan x="728.5" dy="0.00">Internship project that ı cant show yet</tspan>
+</text>
+<text x="875.0" y="15.0" font-family="Consolas, 'Courier New', monospace" font-size="8" fill="#fff" xml:space="preserve">
+<tspan x="875.0" dy="0.00">                                                                      ´ªƒùûZµeqÆÆÆ#ç,¬•¬¡—· DÉÆÆÆ0…  </tspan>
+<tspan x="875.0" dy="8.00">                                                                         ´–†¢hEÑÆÑ¶I’     ,gÆÆÆÆÍ…  </tspan>
+<tspan x="875.0" dy="8.00">                                                                              ´¬ÏÚËÆÙí’   eÈÆÆÆÆ3…  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                  *SNÆš¬´^¶ÆÆÆÆÆÌ…  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                    ògÆÅ@U#ÆÆÆÆÆC…  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                     óŽÆÆÆÆÆÆÆÆÆs·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                     ¨§ÉÆÆÆÆÆÆÆÆ¢·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                      ½ÐÆÆÆÆÆÆÆÆ‰·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                      ªëÆÆÆÆÆÆÆÆ½·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                      °ÞÆÆÆÆÆÆÆÆ¼·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                      ÌRÆÆÆÆÆÆÆÆ‡·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                     &lt;.pþWÆÆÆÆÆÆÆƒ·  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                    ,¶Ø@ëŒÆÆÆÆÆÆ%¨  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                   íANI¦GÆÆÆÆÆÆÆo¨  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                  uêAí…sÀÆÆÆÆÆÆÆj¨  </tspan>
+<tspan x="875.0" dy="8.00">                                                                                ‘úÁÞ»´·ÝMÆÆÆÆÆÆÆ7´  </tspan>
+<tspan x="875.0" dy="8.00">                                                                               ,bQy„  ƒqÆÆÆÆÆÆÆB!   </tspan>
+<tspan x="875.0" dy="8.00">                                                                             ¸½ŠŽI…  ³ÞŒÆÆÆÆÆÆÆd°   </tspan>
+<tspan x="875.0" dy="8.00">                                                                            ºžÉä¬   ‚äMÆÆÆÆÆÆÆÆ0‚   </tspan>
+<tspan x="875.0" dy="8.00">                                                                          `nEB@…   ·ûÉÆÆÆÆÆÆÆÆW•´   </tspan>
+<tspan x="875.0" dy="8.00">                                                                         ¬ûÈk„    ÝMÆÆÆÆÆÆÆÆÆw‚    </tspan>
+<tspan x="875.0" dy="8.00">                                                                       ‚nŽpj¸    ïðŒÆÆÆÆÆÆÆÆÆdº     </tspan>
+<tspan x="875.0" dy="8.00">                                                                     ´{ÒBS¦    ˆsœÆÆÆÆÆÆÆÆÆÆŠ+´     </tspan>
+<tspan x="875.0" dy="8.00">                                                                    ²4BGí    `*ÖŒÆÆÆÆÆÆÆÆÆÆp,¨      </tspan>
+<tspan x="875.0" dy="8.00">                                            ``                    ¸ïøþù¨    ºyÉÆÆÆÆÆÆÆÆÆÆÆdª        </tspan>
+<tspan x="875.0" dy="8.00">                                            :“·                 `³6MF°    ’fØÆÆÆÆÆÆÆÆÆÆÆÂ‰‚         </tspan>
+<tspan x="875.0" dy="8.00">                                            :í’                ’‡Èßv´   ªUÉÆÆÆÆÆÆÆÆÆÆÆÆ4–`          </tspan>
+<tspan x="875.0" dy="8.00">                                            :ù;              ´•G#µ°  ˆoâÃÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆØR¶ƒ‚       </tspan>
+<tspan x="875.0" dy="8.00">                                            :Þ”             –xÅÞ, ·+§œÆÆÆÆÆÆÆÆÆÆÆÆÆÉÁøûµ®pÈÆõ¹      </tspan>
+<tspan x="875.0" dy="8.00">                                            :Ôi´          …vãŽn·”Í8ÆÆÆÆÆÆÆÆÆÆÆÆœÝí:       =Kë„      </tspan>
+<tspan x="875.0" dy="8.00">                                            ’Š™…        `~eQ®“vZÆÆÆÆÆÆÆÆÆÆÆÆ#dj…         ·U#s‚      </tspan>
+<tspan x="875.0" dy="8.00">                                            ‘ÔA:       ·cWq¼ÍØÆÆÆÆÆÆÆÆÆÆÆÉên…           ‚6â}·       </tspan>
+<tspan x="875.0" dy="8.00">                                            ‘ÔÆ×´     ’äËñkÆÆÆÆÆÆÆÆÆÆÆÆØe:             “Þoˆ         </tspan>
+<tspan x="875.0" dy="8.00">                                            ‘ÔÆù¸    ×#B€ÉÆÆÆÆÆÆÆÆÆÆÑè¿‘               ˆ¨           </tspan>
+<tspan x="875.0" dy="8.00">                                            ‚ÔÆp‘   wÉÆŒÆÆÆÆÆÆÆÆÆÆRú¬                               </tspan>
+<tspan x="875.0" dy="8.00">                                            ’€ÑÆ‡…‘bÆÆÆÆÆÆÆÆÆÆÆÈÙîˆ               `·^îwxyy4n³´      </tspan>
+<tspan x="875.0" dy="8.00">                                  ·,C±ƒ¬’   ˆßÑÆÆßÉÆÆÆÆÆÆÆÆÆÑRa¯  `¨’^,¿ï=&gt;&gt;ƒ3ÍaäRÁÞe5t–`           </tspan>
+<tspan x="875.0" dy="8.00">                  ’“;          ¸¬xÀßt‚      …pÑÆÆÆÆÆÆÆÆÆÆÆØÔ9&gt;t§ÄÆŒNê#ÉBNWÆÆÆBpFƒ‚                  </tspan>
+<tspan x="875.0" dy="8.00">                    “v/‘     `*8Æ#j¨        ·ãÑÆÆÆÆÆÆÆÆÆÆÆÆÆÆØÁqÝv§ÈÄ$Ì0ÈMÁž÷   ’›…                 </tspan>
+<tspan x="875.0" dy="8.00">                     `~fO‚   óHÆÆV’         ¨ãÑÆÆÆÆÆÆÆÆÆÆÆÆA,¯UWÉ¶,’ïÐØÈõ’·      Ì5¡                </tspan>
+<tspan x="875.0" dy="8.00">                       ¨¦ŸÛs¨fØÆÆa;         ´âÑÆÆÆÆÆÆÆÆÑ8/³3œWä÷‚ˆzRØ¥¬‚          ‰Üî…              </tspan>
+<tspan x="875.0" dy="8.00">                         …*ÒŽÀÑÆÆÂ¢‚         ¶ŒÆÆÆÆÆÆØà¬:&amp;ÀÔj; ¸ìßQš•              ¢q0‹    </tspan>
+<tspan x="875.0" dy="8.00">                           ˆƒpÆÆÆÆŒà!`       ðŒÆÆÆÆÆWc¨.ãKò¨  –žÉøi                 5Áù¹            </tspan>
+</text>
+<text x="265.0" y="53.0" font-family="Consolas, 'Courier New', monospace" font-size="8" fill="#fff" xml:space="preserve">
+<tspan x="265.0" dy="0.00">      :::    ::: :::::::::: :::        :::        ::::::::              :::     ::::    ::: :::::::::        :::       ::: :::::::::: :::        :::        ::::::::   ::::::::    :::   :::   :::::::::: </tspan>
+<tspan x="265.0" dy="8.00">     :+:    :+: :+:        :+:        :+:       :+:    :+:           :+: :+:   :+:+:   :+: :+:    :+:       :+:       :+: :+:        :+:        :+:       :+:    :+: :+:    :+:  :+:+: :+:+:  :+:         </tspan>
+<tspan x="265.0" dy="8.00">    +:+    +:+ +:+        +:+        +:+       +:+    +:+          +:+   +:+  :+:+:+  +:+ +:+    +:+       +:+       +:+ +:+        +:+        +:+       +:+        +:+    +:+ +:+ +:+:+ +:+ +:+          </tspan>
+<tspan x="265.0" dy="8.00">   +#++:++#++ +#++:++#   +#+        +#+       +#+    +:+         +#++:++#++: +#+ +:+ +#+ +#+    +:+       +#+  +:+  +#+ +#++:++#   +#+        +#+       +#+        +#+    +:+ +#+  +:+  +#+ +#++:++#      </tspan>
+<tspan x="265.0" dy="8.00">  +#+    +#+ +#+        +#+        +#+       +#+    +#+         +#+     +#+ +#+  +#+#+# +#+    +#+       +#+ +#+#+ +#+ +#+        +#+        +#+       +#+        +#+    +#+ +#+       +#+ +#+            </tspan>
+<tspan x="265.0" dy="8.00"> #+#    #+# #+#        #+#        #+#       #+#    #+#         #+#     #+# #+#   #+#+# #+#    #+#        #+#+# #+#+#  #+#        #+#        #+#       #+#    #+# #+#    #+# #+#       #+# #+#             </tspan>
+<tspan x="265.0" dy="8.00">###    ### ########## ########## ########## ########          ###     ### ###    #### #########          ###   ###   ########## ########## ########## ########   ########  ###       ### ##########       </tspan>
+</text>
+<text x="245.0" y="143.0" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#fff" xml:space="preserve">
+<tspan x="245.0" dy="0.00">  # I am Ada, software engineering student. I love Java and currently trying to learnd different things about different topics.   </tspan>
+</text>
+<text x="265.0" y="197.0" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#fff" xml:space="preserve">
+<tspan x="265.0" dy="0.00">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠄⠀⠀⠀⣠⡶⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⠀⠀⠀⣠⢤⠀⢤⠹⡌⠃⠀⠂⠀⠀⠀⠀⠀⠀⣠⠃⠘⣇⠀⠀⠁⠈⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⠀⠀⠀⠳⠼⠃⠢⠦⠙⠙⠀⠀⠀⠀⠀⢀⣤⠖⡧⠐⠚⠙⠳⠤⢀⢀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⢠⣄⣄⡀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⢠⣾⠫⠇⠀⠀⠰⠒⠂⠀⠀⠈⠒⣭⣿⡧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⣼⡅⠐⠐⠻⠶⠶⠖⠋⣉⡿⠃⠀⠀⠀⠀⠹⢿⣇⣆⣀⣠⡀⠔⢾⣿⠋⠈⠙⢝⣾⠿⢹⣟⢶⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠙⢧⡀⠀⠄⢠⣆⣌⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢆⠀⢱⠀⠀⠀⠀⠈⠀⠀⠉⢺⠿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠙⣇⢀⠀⠉⠳⠷⣿⣦⣤⣴⣶⡄⠀⣀⠀⠀⡀⣠⣄⣀⣀⡙⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⠓⣀⠤⣤⡀⠀⠀⢀⠀⣀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⡏⠘⣻⣷⠶⠶⣲⣬⣬⣥⣤⠄⣀⣤⠼⠟⠋⠉⠁⠀⠉⠉⠟⠛⠻⢶⣤⡀⠀⠀⠀⡀⢤⣄⠀⠀⠉⠚⠛⠓⠒⠟⠋⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⣿⣷⠋⠀⠀⠀⠀⠀⠙⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠢⡀⠀⠙⠙⠊⠠⠲⣢⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⠈⣁⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠀⠀⠀⠀⠤⠳⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="265.0" dy="12.00">⠀⠀⠀⠀⠑⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+</text>
+</svg>
 
 </div>
